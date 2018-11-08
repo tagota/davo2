@@ -11,12 +11,6 @@
          "last": "last2",
          "department": "dp",
          "age": 22
-      },
-      {
-         "first": "first3",
-         "last": "last3",
-         "department": "iib",
-         "age": 22
       }
    ]
 }
