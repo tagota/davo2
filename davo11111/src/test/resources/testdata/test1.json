@@ -4,7 +4,8 @@
          "first": "first1",
          "last": "last1",
          "department": "mule",
-         "age": 22
+         "age": 22,
+         "country": "USA""
       },
       {
          "first": "first2",
