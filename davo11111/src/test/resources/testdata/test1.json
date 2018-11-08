@@ -17,6 +17,12 @@
          "last": "last3",
          "department": "adme",
          "age": 20
+      },
+      {
+         "first": "first4",
+         "last": "last4",
+         "department": "dave",
+         "age": 25
       }
    ]
 }
